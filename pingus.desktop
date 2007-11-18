@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pingus
+GenericName=Free Lemmings(TM) clone
+GenericName[bg]=Безплатен Lemmings(TM) клонинг
+Comment=Guide a horde of penguins through various obstacles
+Comment[bg]=Направлявайте стадо пингвини през различни препятствия
+Exec=pingus -f
+Icon=pingus
+Terminal=false
+Type=Application
+Categories=Game;StrategyGame;
