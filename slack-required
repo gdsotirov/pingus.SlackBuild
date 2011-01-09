@@ -1,6 +1,17 @@
 boost >= 1.45
+cxxlibs >= 6.0.13 | gcc-g++ >= 4.4.4
+gcc >= 4.4.4
+glibc-solibs >= 2.11.1
+libX11 >= 1.3.3
+libXau >= 1.0.5
+libXdmcp >= 1.0.3
+libXext >= 1.1
+libXrandr >= 1.3.0
+libXrender >= 0.9.5
 libpng >= 1.4.2
 libjpeg >= v8a
 libtiff >= 3.9.2
+libxcb >= 1.6
 sdl >= 1.2.14
+svgalib >= 1.9.25
 zlib >= 1.2.3
