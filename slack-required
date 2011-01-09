@@ -1,6 +1,6 @@
-boost
-libpng >= 1.2.18
-libjpeg >= 6b
-libtiff >= 3.8.2
-sdl >= 1.2.11
+boost >= 1.45
+libpng >= 1.4.2
+libjpeg >= v8a
+libtiff >= 3.9.2
+sdl >= 1.2.14
 zlib >= 1.2.3
